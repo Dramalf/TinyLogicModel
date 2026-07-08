@@ -1,4 +1,4 @@
-# TinyLogicLM
+# TinyLogicModel
 
 用一个**极小的 decoder-only Transformer**(约 12.7 万参数)去"执行"一门自造的极简符号语言,
 然后用可解释性工具(linear probe / logit lens / attention)打开它,看它**内部到底是怎么算出答案的**。
